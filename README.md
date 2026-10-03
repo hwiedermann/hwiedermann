@@ -2,8 +2,6 @@
 
 🏠 Bastle an meinem **Smart Home** &nbsp;·&nbsp; 🖨️ und am **3D-Druck**
 
-![GitHub followers](https://img.shields.io/github/followers/hwiedermann?style=social)
-
 Hobby-Tüftler aus Deutschland 🇩🇪. Mein Smart Home läuft mit **ioBroker** auf einem kleinen NUC, gedruckt wird auf einem **Anycubic Kobra S1**. Wenn für etwas der passende Baustein fehlt, baue ich aus eigenem Interesse auch mal einen **ioBroker-Adapter** – oder bringe kleine Fixes in bestehende Adapter ein.
 
 💬 Fragt mich gern zu **ioBroker**, **Smart Home** und **3D-Druck**.
